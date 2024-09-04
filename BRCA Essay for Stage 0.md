@@ -1,0 +1,32 @@
+**Introduction**  
+BRCA1 and BRCA2 are tumor suppressor genes (TSGs) that help to prevent uncontrolled cell growth and promote DNA repair and cell cycle checkpoint activation. Mutations in BRCA1 and BRCA2 have been demonstrated to increase the risk of developing breast and ovarian cancer **\[1, 2\]**.  
+**Structure and Function of BRCA1 and BRCA2**  
+**BRCA1** is located on chromosome 17 (17q21)  and it has 24 exons. It codes for a protein consisting of 1863 amino acids (5.6Kb) while **BRCA2** is located on chromosome 13 (13q12) and consists of 27 exons. It codes for a protein consisting of 3418 amino acids (10.2Kb).  
+BRCA genes belong to a group of DNA repair genes that carry out regulatory functions in the cell cycle, coding for proteins involved in the response to DNA damage **\[3\]**. They also play an important role in transcriptional regulation, cell growth control, and genomic stability **\[4\]**.  
+**Incidence and role of BRCA genes in cancers**  
+Mutations in BRCA1 and BRCA2 genes account for about 20% of familial breast and ovarian cancers **\[5, 6\]**. In addition to breast and ovarian cancer in women, mutations in BRCA1 and BRCA2 genes predispose to other cancer types like male breast cancer and prostate cancer. Also,  BRCA1 mutation carriers may be at high risk for the development of colon, rectal and pancreatic cancer as well as stomach cancer **\[7, 8, 9\]**.  
+Alterations in BRCA genes leading to cancer are the result of an inactivating mutation (a mutation that compromises function). The inability of the BRCA gene to play its role in the DNA repair mechanism results in the accumulation of harmful mutations, eventually leading to cancer.  
+**Testing for BRCA Mutations**   
+The standard method for testing BRCA genes includes comprehensive sequencing and testing of broad rearrangements **\[10, 11\]**. Next-generation sequencing systems allow for quick and accurate evaluation of millions of gene sequences at once  **\[3\]**.  
+**Treatment options for patients with BRCA mutations**  
+Treatment options for cancer patients with BRCA mutations vary and are typically determined by a number of factors evaluated by the clinician. Common treatment options include radiation therapy, surgery, chemotherapy, etc **\[12\].** Preventive procedures such as mastectomy and salpingo-oophorectomy have proven beneficial for the reduction of the risk of breast and ovarian cancer development **\[13, 14\].**  
+**Conclusion**  
+It is estimated that about 13% of women will experience breast cancer in their lifetime” **\[15\]**. Therefore understanding BRCA1 and BRCA2 and their mutations is highly critical. With the knowledge gathered from continuous research and the ever-increasing advancements in genetic testing and personalized medicine, individuals with harmful alterations in the BRCA genes can manage their cancer risk and also improve prognosis and survival rate.
+
+**References**
+
+1. Miki, Y., Swensen, J., Shattuck-Eidens, D., Futreal, P. A., Harshman, K., Tavtigian, S., ... & Skolnick, M. H. (1994). A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. *Science*, *266*(5182), 66-71.  
+2. Wooster, R., Bignell, G., Lancaster, J., Swift, S., Seal, S., Mangion, J., ... & Stratton, M. R. (1995). Identification of the breast cancer susceptibility gene BRCA2. *Nature*, *378*(6559), 789-792.  
+3. Varol, U., Kucukzeybek, Y., Alacacioglu, A., Somali, I., Altun, Z., Aktas, S., & Tarhan, M. O. (2018). BRCA genes: BRCA 1 and BRCA 2\. *apoptosis*, *13*, 19\.  
+4. Jasin, M. (2002). Homologous repair of DNA damage and tumorigenesis: the BRCA connection. *Oncogene*, *21*(58), 8981-8993.  
+5. Noh, J. M., Choi, D. H., Baek, H., Nam, S. J., Lee, J. E., Kim, J. W., ... & Huh, S. J. (2012). Associations between BRCA mutations in high-risk breast cancer patients and familial cancers other than breast or ovary. *Journal of breast cancer*, *15*(3), 283\.  
+6. Easton, D. F. (1999). How many more breast cancer predisposition genes are there?. *Breast Cancer Research*, *1*, 1-4.  
+7. Thompson, D., & Easton, D. F. (2002). Cancer incidence in BRCA1 mutation carriers. *Journal of the National Cancer Institute*, *94*(18), 1358-1365.  
+8. Brose, M. S., Rebbeck, T. R., Calzone, K. A., Stopfer, J. E., Nathanson, K. L., & Weber, B. L. (2002). Cancer risk estimates for BRCA1 mutation carriers identified in a risk evaluation program. *Journal of the National Cancer Institute*, *94*(18), 1365-1372.  
+9. Thompson, D., & Easton, D. (2001). Variation in cancer risks, by mutation position, in BRCA2 mutation carriers. *The American Journal of Human Genetics*, *68*(2), 410-419.  
+10. Mardis, E. R. (2008). Next-generation DNA sequencing methods. *Annu. Rev. Genomics Hum. Genet.*, *9*(1), 387-402.  
+11. Wheeler, D. A., Srinivasan, M., Egholm, M., Shen, Y., Chen, L., McGuire, A., ... & Rothberg, J. M. (2008). The complete genome of an individual by massively parallel DNA sequencing. *nature*, *452*(7189), 872-876.  
+12. Atun, R., Jaffray, D. A., Barton, M. B., Bray, F., Baumann, M., Vikram, B., ... & Gospodarowicz, M. (2015). Expanding global access to radiotherapy. *The lancet oncology*, *16*(10), 1153-1186.  
+13. Kauff, N. D., Satagopan, J. M., Robson, M. E., Scheuer, L., Hensley, M., Hudis, C. A., ... & Offit, K. (2002). Risk-reducing salpingo-oophorectomy in women with a BRCA1 or BRCA2 mutation. *New England Journal of Medicine*, *346*(21), 1609-1615.  
+14. Rebbeck, T. R., Friebel, T., Lynch, H. T., Neuhausen, S. L., Van’t Veer, L., Garber, J. E., ... & Weber, B. L. (2004). Bilateral prophylactic mastectomy reduces breast cancer risk in BRCA1 and BRCA2 mutation carriers: the PROSE Study Group. *Journal of clinical oncology*, *22*(6), 1055-1062.  
+15. SEER\*Explorer: An interactive website for SEER cancer statistics \[Internet\]. Surveillance Research Program, National Cancer Institute; 2024 Apr 17\. \[updated: 2024 Jun 27; cited 2024 Sep 4\]. Available from: https://seer.cancer.gov/statistics-network/explorer/. Data source(s): Underlying Incidence data are from SEER Incidence Data, November 2023 Submission (1975-2021), SEER 22 registries. Underlying Mortality data are from the NCHS public use data file. Mortality data used for Risk of Developing estimates are 
